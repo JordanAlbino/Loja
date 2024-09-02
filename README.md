@@ -1,3 +1,6 @@
+ALUNOS: Jordan Lima, Albertho Pedro, Stanley Kennedy, Arthur Estevam
+
+
 # Loja
 DOCUMENTAÇÃO APP
 
